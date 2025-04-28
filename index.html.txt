@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aditya V. Rao | Product Manager</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      scroll-behavior: smooth;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background: #f4f4f4;
+      padding: 1rem;
+      text-align: center;
+      position: sticky;
+      top: 0;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #004080;
+      font-weight: bold;
+    }
+    section {
+      padding: 4rem 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #004080;
+    }
+    footer {
+      background: #f4f4f4;
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    .button {
+      background-color: #004080;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 10px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Aditya V. Rao</h1>
+  <p>Product Manager | Digital Strategy | Agile Advocate</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#experience">Experience</a>
+  <a href="#projects">Projects</a>
+  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>Certified Scrum Master and Product Owner with 5+ years of experience delivering innovative mobile and desktop applications. Passionate about building privacy-first, user-centered products for global audiences. Skilled in guiding UX, collaborating with engineering teams, and executing agile strategies from ideation to launch.</p>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+  <h3>Senior Product Owner | Bio-Rad Laboratories</h3>
+  <p>Led end-to-end digital product development for Autoimmune, Diabetes, and NIPT platforms. Partnered with UX teams to deliver streamlined mobile and desktop applications, reducing delivery cycles by 80% while improving user satisfaction and defect resolution rates.</p>
+
+  <h3>Business Analyst | IBM</h3>
+  <p>Managed regulatory requirements and led internal process automations, resulting in 75% faster ticket resolution times while ensuring compliance and security standards.</p>
+</section>
+
+<section id="projects">
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Next-Gen Diagnostics Platform:</strong> Delivered a privacy-centered desktop and mobile diagnostic application integrated with real-time analytics dashboards.</li>
+    <li><strong>E-commerce Platform Migration:</strong> Led successful live migration of ERP and e-commerce platforms, maintaining seamless operations across global markets.</li>
+  </ul>
+</section>
+
+<section id="skills">
+  <h2>Skills & Certifications</h2>
+  <ul>
+    <li>Mobile App Product Management</li>
+    <li>Agile Methodologies (Scrum, SAFe, Kanban)</li>
+    <li>User Story Development & Requirement Gathering</li>
+    <li>Privacy-First Product Design</li>
+    <li>Certified ScrumMaster (CSM) | Certified Scrum Product Owner (CSPO)</li>
+    <li>Tools: JIRA, Confluence, Azure DevOps, Tableau</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:aditorama@gmail.com">aditorama@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/adityavydyula/" target="_blank">View Profile</a></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Aditya V. Rao | Product Manager</p>
+</footer>
+
+</body>
+</html>
